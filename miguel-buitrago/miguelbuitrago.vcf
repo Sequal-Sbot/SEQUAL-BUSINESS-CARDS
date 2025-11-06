@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Buitrago;Miguel;;;
+FN:Miguel Buitrago
+ORG:Sequal
+ADR;TYPE=WORK:SBOT: Low-code tests that scale without mercy.
+TITLE:CVO
+TEL;TYPE=CELL:+573006123514
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:miguel.buitrago@sequal.com.co
+URL;TYPE=Digital Business Card:
+URL:https://sequal.com.co
+URL;TYPE=WhatsApp:https://wa.me/3006123514
+URL;TYPE=Website:https://sequal.com.co
+URL;TYPE=LinkedIn:https://linkedin.com/in/miguel-buitrago-mb
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:20+ years safeguarding software quality. Delivering on-time, dependable, and credible solutions.
+UID:EnBizCard-100065766
+END:VCARD
